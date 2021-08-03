@@ -10,6 +10,8 @@ Introduction to software engineering
 Algorithm and Data Structure
 Statistics 
 
+## Here are some of my projects, which I have created in the past year. 
+
 
 ## Feel free to contact me:
 github
