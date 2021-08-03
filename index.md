@@ -11,7 +11,7 @@ Algorithm and Data Structure
 Statistics 
 
 ## Here are some of my projects, which I have created in the past year. 
-
+[Projects](https://github.com/Qzu20/Blog/projects.md)
 
 ## Feel free to contact me:
 github
